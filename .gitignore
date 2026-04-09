@@ -10,7 +10,7 @@ __pycache__/
 # Variáveis de ambiente (senhas e chaves)
 .env
 
-/database.py
+*.db
 
 dist/
 build/
