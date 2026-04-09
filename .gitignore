@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Variáveis de ambiente (senhas e chaves)
+.env
+
+/database.py
+
+dist/
+build/
+*.egg-info/
